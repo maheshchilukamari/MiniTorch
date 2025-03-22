@@ -6,3 +6,18 @@
 * Docs: https://minitorch.github.io/
 
 * Overview: https://minitorch.github.io/module0/module0/
+
+<figure>
+  <img src="newplot.png" alt="Classified" width="500" height="auto">
+  <figcaption>Classified Image</figcaption>
+</figure>
+
+### Parameters used:
+
+- **Dataset**: Simple
+- **Number of points**: 65
+
+### Model Parameters:
+- **Parameter: linear.weight_0_0**: 1.47
+- **Parameter: linear.weight_1_0**: -0.46
+- **Parameter: linear.bias_0**: -1.28
